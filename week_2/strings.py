@@ -47,3 +47,21 @@ print(subject.split(":"))
 age = 30
 height = 1.6 
 print("I am {0} years old and {1} meters tall ". format(age,height))
+
+
+activity = "eating"
+print("my hobby is %s"%(activity))
+
+
+height = 1.23
+print("My height is %5.4f"%(height))
+
+age = 32
+print("My age is %d"% (age))
+
+name = "Roy Kings"
+print(len(name))
+
+print(f" My full name is {name}")
+
+ 
