@@ -12,6 +12,8 @@ print(5 + 7 / 2 * 0.5)
 print((5 + 7) / 2 * 0.5)
 print(2**3)
 
+
+# >> left shift by a number is equivalent by 2 # rasised to power the number
 print(20 >> 1)
 print(20 >> 2)
 
