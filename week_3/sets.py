@@ -1,1 +1,0 @@
-vegetables = ("kales","cabbages","spinach")

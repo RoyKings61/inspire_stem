@@ -1,8 +1,0 @@
-print("My name is Bob Afwata")
-print("I am 29 years old")
-print("I come from Kisumu county")
-print("I love cooking fish ")
-print("-----------------------------")
-print("*****************************")
-print("#############################")
-print("My name is Roy")
